@@ -1,0 +1,1567 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getCon",
+				"getConfigArray"
+			],
+			[
+				"_con",
+				"_configArray"
+			],
+			[
+				"conf",
+				"configArray"
+			],
+			[
+				"con",
+				"configArray"
+			],
+			[
+				"_c",
+				"_config"
+			],
+			[
+				"getterNa",
+				"getterName"
+			],
+			[
+				"gett",
+				"getterName"
+			],
+			[
+				"pro",
+				"propertyName"
+			],
+			[
+				"al",
+				"alias"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"per",
+				"percision"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"perc",
+				"percision"
+			],
+			[
+				"addEn",
+				"addEntity"
+			],
+			[
+				"ent",
+				"entityConfigArray"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"_",
+				"_entities"
+			],
+			[
+				"VAR",
+				"VARIABLE"
+			],
+			[
+				"I",
+				"INTEGER"
+			],
+			[
+				"Pro",
+				"PropertyType"
+			],
+			[
+				"V",
+				"VARIABLE"
+			],
+			[
+				"B",
+				"BOOLEAN"
+			],
+			[
+				"set_inc",
+				"set_include_path"
+			],
+			[
+				"com",
+				"commandName"
+			],
+			[
+				"co",
+				"commandFilePath"
+			],
+			[
+				"strtoup",
+				"strtoupper"
+			],
+			[
+				"STO",
+				"STORM_DIR"
+			],
+			[
+				"L",
+				"LIB_DIR"
+			],
+			[
+				"define",
+				"define"
+			],
+			[
+				"arm",
+				"arguments"
+			],
+			[
+				"e",
+				"eqlQuery"
+			],
+			[
+				"tok",
+				"tokenizer"
+			],
+			[
+				"token",
+				"tokenizer"
+			],
+			[
+				"eql",
+				"eqlQuery"
+			],
+			[
+				"log",
+				"logicalOperatorType"
+			],
+			[
+				"cur",
+				"currentLogicalOperator"
+			],
+			[
+				"sqlC",
+				"sqlCondition"
+			],
+			[
+				"LO_",
+				"LO_AND"
+			],
+			[
+				"SqlCo",
+				"SqlCondition"
+			],
+			[
+				"curr",
+				"currentLogicalOperator"
+			],
+			[
+				"SqlCon",
+				"SqlCondition"
+			],
+			[
+				"sql",
+				"sqlCondition"
+			],
+			[
+				"addCo",
+				"addCondition"
+			],
+			[
+				"parseTok",
+				"parseTokenArray"
+			],
+			[
+				"SqlCond",
+				"SqlCondition"
+			],
+			[
+				"_com",
+				"_comparisonValue"
+			],
+			[
+				"entityPr",
+				"_entityProperty"
+			],
+			[
+				"CO_E",
+				"CO_EQUALS"
+			],
+			[
+				"_co",
+				"_conditions"
+			],
+			[
+				"sub",
+				"subCondition"
+			],
+			[
+				"whe",
+				"where"
+			],
+			[
+				"from",
+				"from"
+			],
+			[
+				"enti",
+				"_entityProperty"
+			],
+			[
+				"CO_GR",
+				"CO_GREATER_THAN"
+			],
+			[
+				"CO_",
+				"CO_EQUALS"
+			],
+			[
+				"par",
+				"parentCondition"
+			],
+			[
+				"ig",
+				"ignoreToggle"
+			],
+			[
+				"ign",
+				"ignoreToggle"
+			],
+			[
+				"ignor",
+				"ignoreToggle"
+			],
+			[
+				"_getRe",
+				"_getRequestedCampaign"
+			],
+			[
+				"crumb",
+				"crumbLink"
+			],
+			[
+				"_curr",
+				"_currentNav"
+			],
+			[
+				"nav",
+				"navLink"
+			],
+			[
+				"DAS",
+				"DASHBOARD"
+			],
+			[
+				"Brea",
+				"BreadCrumbs"
+			],
+			[
+				"tota",
+				"total_referrers"
+			],
+			[
+				"REF",
+				"REFERRAL"
+			],
+			[
+				"_ch",
+				"_checkAndValidateSubmit"
+			],
+			[
+				"ref",
+				"referrals"
+			],
+			[
+				"referral",
+				"referrals"
+			],
+			[
+				"camp",
+				"campaignId"
+			],
+			[
+				"TWI",
+				"TWITTER"
+			],
+			[
+				"prop",
+				"propertyName"
+			],
+			[
+				"CA",
+				"CampaignType"
+			],
+			[
+				"AD",
+				"ADWORDS"
+			],
+			[
+				"_sav",
+				"_saveKeywords"
+			],
+			[
+				"KEY",
+				"KEYWORD"
+			],
+			[
+				"sele",
+				"selectedValue"
+			],
+			[
+				"ti",
+				"time_created"
+			],
+			[
+				"time",
+				"time_created"
+			],
+			[
+				"_clear",
+				"_clearCampaignCache"
+			],
+			[
+				"_re",
+				"_requestedCampaign"
+			],
+			[
+				"for",
+				"forceReloadCampaign"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"KE",
+				"KEYWORD"
+			],
+			[
+				"keyw",
+				"keywords"
+			],
+			[
+				"getKe",
+				"getKeywords"
+			],
+			[
+				"cam",
+				"campaignKeywordMapper"
+			],
+			[
+				"_get",
+				"_getRequestedCampaign"
+			],
+			[
+				"Ca",
+				"Campaign"
+			],
+			[
+				"shad",
+				"shadowSelector"
+			],
+			[
+				"ca",
+				"campaign"
+			],
+			[
+				"edi",
+				"edit_keyword_campaign"
+			],
+			[
+				"Cam",
+				"CampaignType"
+			],
+			[
+				"campa",
+				"campaign"
+			],
+			[
+				"_pre",
+				"_prepareAdd"
+			],
+			[
+				"dele",
+				"deleteString"
+			],
+			[
+				"ins",
+				"insertString"
+			],
+			[
+				"insert",
+				"insertString"
+			],
+			[
+				"esc",
+				"escapedKeyword"
+			],
+			[
+				"keywo",
+				"keywordString"
+			],
+			[
+				"campaignKey",
+				"campaignKeywordMapper"
+			],
+			[
+				"dom",
+				"domainId"
+			],
+			[
+				"Exc",
+				"Exception"
+			],
+			[
+				"in",
+				"inactive"
+			],
+			[
+				"campaignMap",
+				"campaignMapper"
+			],
+			[
+				"exc",
+				"exception"
+			],
+			[
+				"doma",
+				"domainName"
+			],
+			[
+				"domainN",
+				"domain_name"
+			],
+			[
+				"seg",
+				"segment_id"
+			],
+			[
+				"person",
+				"personalization"
+			],
+			[
+				"_va",
+				"_validateDomainName"
+			],
+			[
+				"K",
+				"KWC"
+			],
+			[
+				"getCam",
+				"getCampaignService"
+			],
+			[
+				"getCampaignSer",
+				"getCampaignService"
+			],
+			[
+				"form",
+				"formName"
+			],
+			[
+				"str_repl",
+				"str_replace"
+			],
+			[
+				"KEYWORD",
+				"PDF_set_info_keywords"
+			],
+			[
+				"Camp",
+				"Campaign_Type"
+			],
+			[
+				"getTy",
+				"getTypeIdentityMap"
+			],
+			[
+				"getT",
+				"getType"
+			],
+			[
+				"getType",
+				"getTypeMapper"
+			],
+			[
+				"getCampt",
+				"getCampaignTypeIdentityMap"
+			],
+			[
+				"_gen",
+				"_generateKey"
+			],
+			[
+				"getCamp",
+				"getCampaignStatusMapper"
+			],
+			[
+				"_vali",
+				"_validateType"
+			],
+			[
+				"_valid",
+				"_validateType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/html/vhosts/StORM/bin/StORM.php",
+			"settings":
+			{
+				"buffer_size": 4549,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Cli/Command/Info.php",
+			"settings":
+			{
+				"buffer_size": 2450,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/bin/lib/CLI.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM.php",
+			"settings":
+			{
+				"buffer_size": 2553,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/bin/lib/Cli.php",
+			"settings":
+			{
+				"buffer_size": 4323,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Cli/Command.php",
+			"settings":
+			{
+				"buffer_size": 4314,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Cli/Command/Build.php",
+			"settings":
+			{
+				"buffer_size": 1794,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/Entity/Property/Type.php",
+			"settings":
+			{
+				"buffer_size": 1565,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/Entity/Property.php",
+			"settings":
+			{
+				"buffer_size": 4401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/PropertyConfig.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/Entity.php",
+			"settings":
+			{
+				"buffer_size": 2174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config.php",
+			"settings":
+			{
+				"buffer_size": 2859,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Cli/Exception.php",
+			"settings":
+			{
+				"buffer_size": 1418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/config/schema.yml",
+			"settings":
+			{
+				"buffer_size": 1057,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/Entity/Property/Style.php",
+			"settings":
+			{
+				"buffer_size": 1455,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Exception.php",
+			"settings":
+			{
+				"buffer_size": 1574,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 126,
+		"selected_items":
+		[
+			[
+				"SSHTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"SSPHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"SSCSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"SSSQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"skyMap",
+				"Snippet: SkyMapEntity"
+			]
+		],
+		"width": 392
+	},
+	"console":
+	{
+		"height": 0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/Property/Style.php",
+		"/var/www/html/vhosts/StORM/bin/lib/CLI.php",
+		"/var/www/html/vhosts/StORM/bin/lib/Sky/St/ORM/Cli/Command.php",
+		"/var/www/html/vhosts/StORM/bin/lib/Sky/St/ORM/Cli/Command/Info.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Condition/Exception.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Exception.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Command.php",
+		"/var/www/html/vhosts/StORM/lib/ORM.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Loader.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Entity/Loader.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/St/ORM/IdentityMap.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Entity/Collection.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Command/CommandAbstract.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Entity/Collection/AbstractCollection.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Entity.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Condition.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Condition",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Command/Update.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Command/Select.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Tokenizer.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Condition/Comparison.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Condition/Collection.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Command/Exception.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Parser.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/St/ORM.php",
+		"/var/www/html/vhosts/StORM/lib/Test.php",
+		"/var/www/html/vhosts/StORM/lib/Sky/Eql/Command/AbstractCommand.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/index.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/add_keyword_campaign.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/js/jquery.ui.viewstack.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/js/jquery.msqui.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/js/jquery.dataTables.addAndDisplay.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/temp/pages/forms.html",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/temp/js/dashboard.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/css/text.css",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/add_adword_campaign.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/css/reset.css",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/controllers/parse_controller.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/add_referral_campaign.phtml",
+		"/home/seant23/Logs/2012-09-26-KeywordCatcher.txt",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/add_twitter_campaign.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/edit_keyword_campaign.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/controllers/campaign_controller.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/core.sql",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/edit_twitter_campaign.phtml",
+		"/home/seant23/Templates/download/theme/pages/msgui.bk.html",
+		"/home/seant23/Templates/download/theme/pages/msgui.html",
+		"/home/seant23/Templates/download/theme/js/all.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/css/uni-form/default.uni-form.css",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/public/js/jquery/jquery.dataTables.min.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/Old/javascripts/jquery.dataTables.min.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/Old/javascripts/jquery.min.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/stylesheets/style.css",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Referall.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/edit_referral_campaign.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/models/campaign_referral.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/models/campaign.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/javascripts/editor.js",
+		"/home/seant23/Libraries/JS/easyXDM/example/resize_iframe.html",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/javascripts/catcher.js",
+		"/var/www/html/vhosts/test/index.html",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/javascripts/jquery.min.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Service.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Keyword.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/layouts/application.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Form.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/delete.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/models/campaign_twitter.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Adwords/Add.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/models/campaign_type.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Adword/Edit.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Adword.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/add_referall_campaign.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/edit_adword_campaign.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Twitter/Add.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Twitter/Edit.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Twitter.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Referall/Add.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Referall/Edit.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/domain_editor.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/vendor/trax/action_controller.php",
+		"/home/seant23/Desktop/test.txt",
+		"/home/seant23/Downloads/keyword_ideas_20110921_022348.csv",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/javascripts/jquery.dataTables.addAndDisplay.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/javascripts/jquery.ui.viewstack.js",
+		"/home/seant23/Libraries/JS/uni-form/draganbabic-uni-form-7e9d6d6/js/uni-form-validation.jquery.js",
+		"/home/seant23/Libraries/JS/uni-form/draganbabic-uni-form-7e9d6d6/demos/validation.html",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/public/javascripts/jquery.html5_upload.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/domain/index.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Status/IdentityMap.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Type/IdentityMap.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/demo.sql",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/models/campaign_keyword.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/models/campaign_status.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Parser/Service/Exception.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/controllers/domain_controller.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/dashboard/index.phtml",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/vendor/trax/active_record.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/controllers/dashboard_controller.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Exception.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Service/Exception.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Domain/Service.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Segment/Service.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/models/company.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Keyword/Edit.php",
+		"/home/seant23/Logs/2012-09-23-KeywordCatcher.txt",
+		"/home/seant23/Downloads/seant23-Flash-Javascript-API-Uploader-04e2570/release/uploader.js",
+		"/home/seant23/Downloads/blueimp-jQuery-File-Upload-4722980/tests/index.html",
+		"/home/seant23/Downloads/blueimp-jQuery-File-Upload-4722980/example/index.html",
+		"/home/seant23/Downloads/seant23-Flash-Javascript-API-Uploader-04e2570/release/JS_Uploader - Minimal.html",
+		"/home/seant23/Downloads/blueimp-jQuery-File-Upload-4722980/example/application.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Parser/Service.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/parse/keywords_csv",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Keyword/Add.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/config/database.ini",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/controllers/logged_in_controller.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/controllers/application.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/Zend/Date.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/IdentityMap.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/IdentityMap.php",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/lib/KWC/Campaign/Form/Add.php",
+		"/home/seant23/Logs/2012-09-21-Certs.txt",
+		"/home/seant23/Logs/2012-09-21-KeywordCatcher.txt",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/public_html/stylesheets/data-table.css",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/models/domain.php",
+		"/home/seant23/Downloads/DataTables-1.8.2/media/js/jquery.dataTables.js",
+		"/var/www/html/vhosts/KeyWordCatcherAdmin/trax/app/views/campaign/add.phtml"
+	],
+	"find":
+	{
+		"height": 33
+	},
+	"find_in_files":
+	{
+		"height": 0,
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\\",
+			"length",
+			"\\",
+			"protected",
+			"/",
+			"false",
+			"RED",
+			"YELLOW",
+			"CYAN",
+			"WHITE",
+			"RED",
+			"YELLOW",
+			"RED",
+			"BLUE",
+			"RED",
+			"//",
+			"RED",
+			"BLUE",
+			"RED",
+			"_",
+			"RED",
+			"WHITE",
+			"BLUE",
+			"YELLOW",
+			"Cli::BLUE",
+			"Sky\\Cli::BLUE",
+			"sqlQuery",
+			"\\",
+			"LO_OR",
+			"addConditionFromTokenArray",
+			"createChildConditionCollection",
+			"currentConditionCollection",
+			"setParentCondition",
+			"getParentConditionCollection",
+			"addContionFromTokenArray",
+			"currentCondition",
+			"conditionTokens",
+			"no title",
+			"removeAttribute",
+			"strong",
+			"keyword",
+			"Keyword",
+			"keyword",
+			"Keyword",
+			"keyword",
+			"Keyword",
+			"keyword",
+			"Keyword",
+			"keyword",
+			"Keyword",
+			"Keywords",
+			"000",
+			"dataTa",
+			"bold",
+			"../",
+			"inline",
+			"Keywords",
+			"label",
+			"inline",
+			"no title",
+			"=\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			"\"./",
+			"\n\n<",
+			".",
+			"\"./",
+			"\"js",
+			"css/",
+			"layout_file",
+			"keyword",
+			"Keyword",
+			"escapedTwitters",
+			"twitter",
+			"keyword",
+			"keywords",
+			"Keyword",
+			"keyword",
+			"Keyword",
+			"Keywords",
+			"keyword",
+			"Keyword",
+			"keyword",
+			"keywords",
+			"Keyword",
+			"KEYWORD",
+			"keyword",
+			"Keyword",
+			"keyword",
+			"Keyword",
+			"keyword",
+			"Keyword",
+			"Adword",
+			"keyword",
+			"Keyword",
+			"ADWORDS",
+			"adword",
+			"Adword",
+			"adword"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Offer",
+			"Companies",
+			"companies",
+			"Company",
+			"company",
+			"Company",
+			"Companies",
+			"Company",
+			"company",
+			"Company",
+			"company",
+			"Company",
+			"Companies",
+			"companies",
+			"company",
+			"Company",
+			"company",
+			"companies",
+			"company",
+			"Company",
+			"companies",
+			"company",
+			"state",
+			"abbreviation"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/vhosts/StORM/bin/StORM.php",
+					"settings":
+					{
+						"buffer_size": 4549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4132,
+								4132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 3024,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Cli/Command/Info.php",
+					"settings":
+					{
+						"buffer_size": 2450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 576,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/var/www/html/vhosts/StORM/bin/lib/CLI.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM.php",
+					"settings":
+					{
+						"buffer_size": 2553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 336,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/var/www/html/vhosts/StORM/bin/lib/Cli.php",
+					"settings":
+					{
+						"buffer_size": 4323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Cli/Command.php",
+					"settings":
+					{
+						"buffer_size": 4314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3908,
+								3908
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 941,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Cli/Command/Build.php",
+					"settings":
+					{
+						"buffer_size": 1794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 826,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/Entity/Property/Type.php",
+					"settings":
+					{
+						"buffer_size": 1565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/Entity/Property.php",
+					"settings":
+					{
+						"buffer_size": 4401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 394,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/PropertyConfig.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/Entity.php",
+					"settings":
+					{
+						"buffer_size": 2174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 138,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config.php",
+					"settings":
+					{
+						"buffer_size": 2859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2856,
+								2265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 778,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Cli/Exception.php",
+					"settings":
+					{
+						"buffer_size": 1418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1147,
+								1147
+							],
+							[
+								1150,
+								1150
+							],
+							[
+								1154,
+								1154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/var/www/html/vhosts/StORM/config/schema.yml",
+					"settings":
+					{
+						"buffer_size": 1057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Config/Entity/Property/Style.php",
+					"settings":
+					{
+						"buffer_size": 1455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/var/www/html/vhosts/StORM/lib/Sky/St/ORM/Exception.php",
+					"settings":
+					{
+						"buffer_size": 1574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1381,
+								1381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0
+	},
+	"input":
+	{
+		"height": 33
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+			[
+				"add_key",
+				"app/views/campaign/add_keyword_campaign.phtml"
+			],
+			[
+				"applicat",
+				"app/views/layouts/application.phtml"
+			],
+			[
+				"par",
+				"app/controllers/parse_controller.php"
+			],
+			[
+				"parse",
+				"app/controllers/parse_controller.php"
+			],
+			[
+				"app",
+				"app/views/layouts/application.phtml"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.phtml"
+			],
+			[
+				"index",
+				"app/views/campaign/index.phtml"
+			],
+			[
+				"cservi",
+				"KWC/Campaign/Service.php"
+			],
+			[
+				"cam",
+				"app/controllers/campaign_controller.php"
+			],
+			[
+				"filter",
+				"Skyseek/Model/Entity/Collection/Request/Filter.php"
+			],
+			[
+				"dbsele",
+				"Skyseek/Model/Entity/Collection/Request/Adapter/DbSelect.php"
+			],
+			[
+				"request",
+				"Skyseek/Model/Entity/Collection/Request.php"
+			],
+			[
+				"service/user.php",
+				"GTW/library/GTW/Service/User.php"
+			]
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 500,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/seant23/Projects/GiveToWin/gtw.sublime-project"
+			]
+		],
+		"width": 380
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268,
+	"status_bar_visible": true
+}

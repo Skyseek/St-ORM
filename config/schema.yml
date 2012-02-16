@@ -1,0 +1,70 @@
+default-type: string
+
+
+####################################################
+##  User Entity 
+####################################################
+
+User:
+	id:
+		type: varchar(256)
+		primary: true
+
+	username:
+		validators:
+			max-length: 128
+			min-length: 6
+			unique: true
+
+	password:
+		validators:
+			max-length: 128
+			min-length: 6
+			hash: md5
+
+	email:
+		validators:
+			max-length: 256
+			email: true
+			unique: true
+
+	role_id:
+		name: role
+		type: UserRole
+
+	status_id:
+		name: status
+		type: UserStatus
+
+	time_created:
+		type: timestamp
+		default: time_created
+
+	time_updated:
+		type: timestamp
+		default: time_updated
+
+	time_last_login:
+		type: timestamp
+
+####################################################
+##  User Status Entity 
+####################################################
+
+UserStatus:
+	id:
+		type: int
+		primarty: true
+	status:
+	description:
+
+####################################################
+##  User Role Entity 
+####################################################
+
+UserRole:
+	id:
+		type: int
+		primarty: true
+	role:
+	description:
